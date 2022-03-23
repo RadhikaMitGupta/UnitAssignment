@@ -1,0 +1,8 @@
+ 
+.products-list > div {
+    background-color:  burlywood
+}
+.products-list > div > img {
+    width: 300px;
+    height: 200px;
+}

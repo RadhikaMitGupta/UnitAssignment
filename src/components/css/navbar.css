@@ -1,0 +1,19 @@
+.navbar-css{
+    background-color: red;
+    height: 80px;
+    display: flex;
+    align-items: center;
+}
+
+.navbar-css button {
+    border: none;
+    margin-right: 50px;
+    margin-left: 100px;
+    height: 2rem;
+    width: 7%;
+    background-color: white;
+    color: black;
+    font-size: 18px;
+    font-weight: bold;
+     
+}
